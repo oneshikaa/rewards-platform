@@ -15,7 +15,8 @@
 <!-- <div align="center">
   <img src="public/features-demo.gif" alt="Features Demo" width="600"/>
 </div> -->
-
+![Coffee Animation](working_ss/coffee-animation.gif)
+![Points Animation](working_ss/points-animation.gif)
 
 - 💰 **Points Management**: Earn and spend points through various activities
 - 💳 **Secure Payments**: Integrated Stripe payment processing
@@ -36,8 +37,6 @@
 <video src="working_ss\transaction-animation.mp4" controls width="800">
   Your browser does not support the video tag.
 </video> -->
-![Coffee Animation](working_ss/coffee-animation.gif)
-![Points Animation](working_ss/points-animation.gif)
 ![Transaction Animation](working_ss/transaction-animation.gif)
 
 
@@ -108,6 +107,13 @@ const YourComponent = () => {
   };
 };
 ```
+
+## 📱 Screenshots
+
+<div align="center">
+  <img src="working_ss\payment-page.png" alt="Transactions" width="400"/>
+  <img src="working_ss\reward-page.png" alt="Rewards Page" width="400"/>
+</div>
 
 ## ⚙️ Configuration
 
