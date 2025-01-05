@@ -36,10 +36,10 @@
 <video src="working_ss\transaction-animation.mp4" controls width="800">
   Your browser does not support the video tag.
 </video> -->
+![Coffee Animation](working_ss/coffee-animation.gif)
+![Points Animation](working_ss/points-animation.gif)
+![Transaction Animation](working_ss/transaction-animation.gif)
 
-![Coffee Animation](working_ss\coffee-animation-ezgif.com-video-to-gif-converter.mp4)
-![Points Animation](working_ss\points-animation-ezgif.com-video-to-gif-converter.mp4)
-![Transaction Animation](working_ss\transaction-animation-ezgif.com-video-to-gif-converter.mp4)
 
 
 ## 🔨 Tech Stack
